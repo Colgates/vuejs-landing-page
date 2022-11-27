@@ -19,7 +19,7 @@ export default {
 </script>
 
 <template>
-    <section aria-labelledby="slider" class="container grid gap-4 text-center sm:text-left relative">
+    <section aria-labelledby="slider" class="container grid gap-4 text-center sm:text-left fade-up">
         <div class="">
             <small class="tracking-widest text-accent uppercase drop-shadow-text-sm">
                 Off The Beaten Path
