@@ -14,11 +14,11 @@
 
         <img sizes="(min-width: 500px) 480w, 650w, 800w, 1300w"
             srcset="
-            ../assets/images/hero-xs.jpg 480w, 
-            ../assets/images/hero-sm.jpg 650w, 
-            ../assets/images/hero-md.jpg 800w, 
-            ../assets/images/hero-lg.jpg 1300w,"
-            src="../assets/images/hero.jpg" class="absolute h-full w-full -z-20 object-cover object-center distance-1">
+            ../assets/images/hero-xs.webp 480w, 
+            ../assets/images/hero-sm.webp 650w, 
+            ../assets/images/hero-md.webp 800w, 
+            ../assets/images/hero-lg.webp 1300w,"
+            src="../assets/images/hero-xl.webp" class="absolute h-full w-full -z-20 object-cover object-center distance-1">
 
         <h1
             class="text-5xl md:text-6xl lg:text-8xl text-center font-bold tracking-wide py-12 drop-shadow-text-md sm:drop-shadow-sm lg:drop-shadow-text-lg distance-2">
