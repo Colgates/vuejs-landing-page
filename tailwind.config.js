@@ -6,7 +6,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
+      screens: {
+        xs: "425px",
+      },
+
       container: {
         center: true,
         padding: {
