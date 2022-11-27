@@ -16,7 +16,7 @@ export default {
 <template>
     <section class="container flex flex-wrap md:space-x-16 space-y-12 md:space-y-0 justify-between items-center"
         aria-labelledby="map">
-        <img class="grow md:flex-1 fade-up" src="../assets/images/map.png" alt="Map" width="400">
+        <img class="grow md:flex-1 fade-up" src="../assets/images/map.webp" alt="Map" width="400">
 
         <div class="grid gap-4 text-center md:text-left grow md:flex-1 fade-up">
             <div class="relative">

@@ -16,7 +16,7 @@ export default {
     Navbar,
     MapSection,
     SliderSection,
-}
+  }
 }
 </script>
 
@@ -28,13 +28,13 @@ export default {
     <HeroSection />
 
     <main class=" relative mt-16 sm:mt-24 lg:mt-40 pb-16 -mb-16 grid gap-16 sm:gap-24 lg:gap-40 overflow-hidden">
-      
+
       <HeadlineSection />
 
       <SliderSection />
 
       <MapSection />
-      
+
       <CTASection />
     </main>
 
@@ -45,4 +45,5 @@ export default {
 </template>
 
 <style >
+
 </style>
