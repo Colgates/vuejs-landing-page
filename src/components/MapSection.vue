@@ -1,16 +1,4 @@
 <script>
-
-export default {
-    components: {
-
-    }
-}
-// defineProps({
-//     msg: {
-//         type: String,
-//         required: true,
-//     },
-// });
 </script>
 
 <template>

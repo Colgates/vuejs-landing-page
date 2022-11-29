@@ -1,21 +1,16 @@
 <script>
-// defineProps({
-//     msg: {
-//         type: String,
-//         required: true,
-//     },
-// });
 </script>
 
 <template>
     <header class="min-h-screen flex flex-col justify-evenly items-center relative preserve-3d">
-        <!-- gradients -->
-        <!-- <div class=" absolute bg-gradient-to-b inset-0 bottom-3/4 from-accent to-transparent"></div> -->
+        
+        <div class=" absolute bg-gradient-to-b inset-0 bottom-3/4 from-accent to-transparent"></div>
         <div class=" absolute bg-gradient-to-t inset-0 top-1/3 -bottom-32 from-bkg/80 to-transparent distance-1"></div>
         
-        <!-- sizes="(min-width: 500px) 480w, 650w, 800w, 1300w"
-        srcset="../assets/images/hero-xs.webp 480w, ../assets/images/hero-sm.webp 650w, ../assets/images/hero-md.webp 800w, ../assets/images/hero-lg.webp 1300w," -->
-        <img loading="lazy" 
+        <img 
+            loading="lazy"
+            sizes="(min-width: 500px) 480w, 650w, 800w, 1300w"
+            srcset="../assets/images/hero-xs.webp 480w, ../assets/images/hero-sm.webp 650w, ../assets/images/hero-md.webp 800w, ../assets/images/hero-lg.webp 1300w," 
             src="../assets/images/hero-xl.webp" class="absolute h-full w-full -z-20 object-cover object-center distance-1">
         <h1
             class="text-5xl text-center font-bold tracking-wide py-12 drop-shadow-text-md sm:drop-shadow-text-md md:drop-shadow-text-md lg:drop-shadow-text-lg xl:drop-shadow-text-lg distance-2">

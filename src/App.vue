@@ -16,7 +16,7 @@ export default {
     Navbar,
     MapSection,
     SliderSection,
-  }
+  },
 }
 </script>
 
